@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "name": "flare"
+    "name": "توان رزمی"
   },
   {
     "id": 2,
-    "name": "analytics",
+    "name": "عوامل فیزیکی",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "cluster",
+    "name": "عوامل غیر فیزیکی",
     "parent": 2
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "id": 5,
-    "name": "CommunityStructure",
+    "name": "عوامل برتری ساز",
     "parent": 3,
     "size": 3812
   },
